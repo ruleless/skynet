@@ -1,5 +1,8 @@
 *.o
 *.a
+*.ncb
+*.suo
+*.user
 /skynet
 /skynet.pid
 3rd/lua/lua
@@ -9,3 +12,8 @@
 *.so
 *.dSYM
 .DS_Store
+GPATH
+GRTAGS
+GTAGS
+/build/Obj
+/build/debug
